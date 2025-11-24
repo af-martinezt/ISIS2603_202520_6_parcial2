@@ -28,3 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Andrés Felipe Martínez Tello
 201913197
+
+Cambios:
+
+Con respecto al enunciado, me di cuenta de que realmente no es necesario un componente de cancion-detail, pues la información solo se presenta en una lista, y no ocurre nada más. Entonces he decidido no crear este componennte aquí para el parcial, aunque en el enunciado lo haya marcado como identificado.
